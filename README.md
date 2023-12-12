@@ -4,12 +4,12 @@
 🔗dataset link --> https://statso.io/dynamic-pricing-case-study/
 
 The above dataset contains:
-- historical sales data
-- customer purchase patterns
-- market demand forecasts
-- cost data
-- customer segmentation data, 
-- and real-time market data.
+- Historical sales data
+- Customer purchase patterns
+- Market demand forecasts
+- Cost data
+- Customer segmentation data, 
+- and Real-time market data.
 
 ## 🚧You see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
 
@@ -18,7 +18,7 @@ Dynamic Pricing is an application of data science that involves adjusting the pr
 Using data-driven insights and algorithms, businesses can dynamically modify prices to achieve the most favourable outcomes.
 
 # Objective
-the aim is to maximize revenue and profitability of a ride-sharing firm by pricing items at the right level that balances supply and demand dynamics. It allows businesses to adjust prices dynamically based on factors like time of day, day of the week, customer segments, inventory levels, seasonal fluctuations, competitor pricing, and market conditions.
+The aim is to maximize revenue and profitability of a ride-sharing firm by pricing items at the right level that balances supply and demand dynamics. It allows businesses to adjust prices dynamically based on factors like time of day, day of the week, customer segments, inventory levels, seasonal fluctuations, competitor pricing, and market conditions.
 
 # Step-by-step approach
 - Importing necessary Python Libraries
