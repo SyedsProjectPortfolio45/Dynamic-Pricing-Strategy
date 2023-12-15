@@ -1,5 +1,7 @@
 # Dynamic-Pricing-Strategy
 
+![Demand-analysts-shaking-hands-from-laptops-screens-and-planning-future-demand](https://github.com/SyedsProjectPortfolio45/Dynamic-Pricing-Strategy/assets/147240839/33e08fb9-2512-4c53-a093-b3eead28fb26)
+
 #### Tools used🛠: Python, NumPy, Pandas, Machine Learning, Sci-kit Learn, Plotly
 🔗dataset link --> https://statso.io/dynamic-pricing-case-study/
 
@@ -32,6 +34,13 @@ The aim is to maximize revenue and profitability of a ride-sharing firm by prici
 - Training a predictive model:
   -implemented a data preprocessing pipeline to preprocess the data
   -split the data and train a Machine Learning model to predict the cost of a ride using RandomForestRegressor
-- Compared actual and predicted results using scatter plot  
+- Compared actual and predicted results using scatter plot
+
+# Output
+![Screenshot (2435)](https://github.com/SyedsProjectPortfolio45/Dynamic-Pricing-Strategy/assets/147240839/48197f76-a208-475a-bfb4-17304f99687b)
+
+
+
+
   
   
